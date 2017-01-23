@@ -1,0 +1,12 @@
+#youtubedriveworkaround {
+    position : relative;
+    z-index  : 1;
+    .logo {
+        position   : absolute;
+        height     : 40px;
+        background : #FFFFFF;
+        right      : 2px;
+        top        : 2px;
+        z-index    : 2;
+    }
+}

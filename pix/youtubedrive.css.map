@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,uBAAwB,CACpB,QAAQ,CAAG,QAAQ,CACnB,OAAO,CAAI,CAAC,CACZ,6BAAM,CACF,QAAQ,CAAK,QAAQ,CACrB,MAAM,CAAO,IAAI,CACjB,UAAU,CAAG,OAAO,CACpB,KAAK,CAAQ,GAAG,CAChB,GAAG,CAAU,GAAG,CAChB,OAAO,CAAM,CAAC",
+"sources": ["youtubedrive.scss"],
+"names": [],
+"file": "youtubedrive.css"
+}
